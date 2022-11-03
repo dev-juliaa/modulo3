@@ -1,0 +1,89 @@
+{
+    "comidas": [
+        {
+            "id": 1,
+            "nome": "batata frita rustica",
+            "descrição":"batatas rusticas crocantes",
+            "acompanhamentos adicionais":"saladas",
+            "preço": 8.00
+        },
+        {
+            "id": 2,
+            "nome": "macarrão quatro queijos",
+            "descrição":"macarrão espaguette salteado em molho de requeijão, gorgonzola, parmesão e suiço",
+            "acompanhamentos adicionais":"saladas",
+            "preço": 35.00
+
+        },
+        {
+            "id": 3,
+            "nome": "lasanha",
+            "descrição":"lasanha abolonhesa com molho de tomate e carne moida bovina",
+            "acompanhamentos adicionais":"saladas",
+            "preço": 34.00 
+        },
+        {
+            "id": 4,
+            "nome": "strogonoff",
+            "descrição":"strogonoff de frango ou carne com batata palha e arroz",
+            "acompanhamentos adicionais":"saladas",
+            "preço": 15.00 
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 1,
+            "bebida": "coca cola",
+            "adicionais":"gelo",
+            "preço": 8.00
+        },
+        {
+            "id": 2,
+            "bebida": "guarana",
+            "adicionais":"gelo",
+            "preço":  6.00
+        },
+        {
+            "id": 3,
+            "bebida": "cerveja",
+            "adicionais":"gelo",
+            "preço":  10.00
+        },
+        {
+            "id": 4,
+            "bebida": "sucos",
+            "adicionais":"gelo",
+            "peço": 5.00
+        }
+    ],
+    "funcionarios": [
+        {
+            "id": 1,
+            "nome": "henrique",
+            "idade": 25,
+            "telefone":21976543378,
+            "email":"contatohenrique@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "marcela",
+            "idade": 28,
+            "telefone":216479876,
+            "email":"marcela_silva@outlook.com"
+        },
+        {
+            "id": 3,
+            "nome": "paulo",
+            "idade": 22,
+            "telefone":21954678763,
+            "email":"paulohenrique_lima@gmail.com"
+        },
+        {
+            "id": 4,
+            "nome": "luana",
+            "idade": 30,
+            "telefone":21945670923,
+            "email":"luana_rodriguescunha@hotmail.com"
+        }
+    ]
+}
