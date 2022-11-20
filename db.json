@@ -67,12 +67,14 @@
             "preço": "R$ 10,00",
             "img": "https://www.montarumnegocio.com/wp-content/uploads/2017/08/Receita-de-como-fazer-petit-gateau-para-vender.jpg"
         },
+        {
             "id": 10,
             "nome": "Fatia Bolo Morango",
             "descrição": "Bolo De Morango feito com pão de ló fofinho com cobertura de chantilly e morango com recheio de morango",
             "preço": "R$ 6,50",
             "img": "https://www.coisasdojapao.com/wp-content/uploads/2019/05/bolo-morango-japones-fatia_opt.jpg"
         },
+        {
             "id": 11,
             "nome": "Mousse Chocolate",
             "descrição": "Mousse De Chocolate meio amargo",
