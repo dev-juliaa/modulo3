@@ -2,88 +2,82 @@
     "comidas": [
         {
             "id": 1,
-            "nome": "batata frita rustica",
-            "descrição":"batatas rusticas crocantes",
-            "acompanhamentos adicionais":"saladas",
-            "preço": 8.00
+            "nome": "Pizza de Frango Com Catupiry",
+            "descrição":"Pizza com massa fina recheada de frango com catupiry e bordas recheadas de catupiry",
+            "preço": "R$ 56,00",
+            "img": "https://imperiodasesfihas.com.br/wp-content/uploads/2019/01/galeto.jpg"
         },
         {
             "id": 2,
-            "nome": "macarrão quatro queijos",
-            "descrição":"macarrão espaguette salteado em molho de requeijão, gorgonzola, parmesão e suiço",
-            "acompanhamentos adicionais":"saladas",
-            "preço": 35.00
+            "nome": "Hamburguer Na Sua Mesa",
+            "descrição":"Hamburguer bovino com cheddar, alface, tomate, molho da casa e picles",
+            "preço": "R$ 36,00",
+            "img": "https://tribunapr.uol.com.br/wp-content/uploads/2021/09/27165713/fast-food-970x550.jpg"
 
         },
         {
             "id": 3,
-            "nome": "lasanha",
-            "descrição":"lasanha abolonhesa com molho de tomate e carne moida bovina",
-            "acompanhamentos adicionais":"saladas",
-            "preço": 34.00 
+            "nome": "Batatas fritas com Cheddar e Bacon",
+            "descrição":"Batats rusticas com cheddar e bacon frito crocante",
+            "preço": "R$ 26,00",
+            "img": "https://www.sabornamesa.com.br/media/k2/items/cache/94ea69ba6d138bccade59f45aa6f86ca_M.jpg"
         },
         {
             "id": 4,
             "nome": "strogonoff",
             "descrição":"strogonoff de frango ou carne com batata palha e arroz",
-            "acompanhamentos adicionais":"saladas",
-            "preço": 15.00 
+            "preço": 15.00,
+            "img": "https://img.cybercook.com.br/receitas/940/strogonoff-aos-4-queijos-2.jpeg"
         }
     ],
     "bebidas": [
         {
-            "id": 1,
-            "bebida": "coca cola",
-            "adicionais":"gelo",
-            "preço": 8.00
+            "id": 5,
+            "nome": "coca cola",
+            "descrição": "Coca Cola 350ml",
+            "preço": "R$ 6,50",
+            "img": "https://checkregistros.com.br/wp-content/uploads/2021/03/image-700x875.jpeg"
         },
         {
-            "id": 2,
-            "bebida": "guarana",
-            "adicionais":"gelo",
-            "preço":  6.00
+            "id": 6,
+            "nome": "Guarana Antarctica",
+            "descrição": "Guarana Antarctica 350ml",
+            "preço": "R$ 6,00",
+            "img": "https://raw.githubusercontent.com/szya5/novoreact/main/src/images/antar.jpg"
         },
         {
-            "id": 3,
-            "bebida": "cerveja",
-            "adicionais":"gelo",
-            "preço":  10.00
+            "id": 7,
+            "nome": "Cerveja",
+            "descrição": "Cerveja Puro Malte 350ml",
+            "preço": "R$ 6,00",
+            "img": "https://static.wixstatic.com/media/bb381d_eafbc6b6f5e44cdcacbf8cdc5194e143~mv2.jpg/v1/fill/w_300,h_405,al_c,lg_1,q_80,enc_auto/SESSION%20IPA.jpg"
         },
         {
-            "id": 4,
-            "bebida": "sucos",
-            "adicionais":"gelo",
-            "peço": 5.00
+            "id": 8,
+            "nome": "Sprite",
+            "descrição": "Refrigerante Sprite 350ml",
+            "preço": "R$ 6,00",
+            "img": "https://raw.githubusercontent.com/szya5/novoreact/main/src/images/sprite.jpg"
         }
     ],
-    "funcionarios": [
-        {
-            "id": 1,
-            "nome": "henrique",
-            "idade": 25,
-            "telefone":21976543378,
-            "email":"contatohenrique@gmail.com"
+    "sobremesa": [
+        {   "id": 9,
+            "nome": "Petit Gateau",
+            "descrição": "Uma deliciosa sobremesa composta de um pequeno bolo de chocolate com casca e recheio cremoso servido geralmente acompanhado de sorvete",
+            "preço": "R$ 10,00",
+            "img": "https://www.montarumnegocio.com/wp-content/uploads/2017/08/Receita-de-como-fazer-petit-gateau-para-vender.jpg"
         },
-        {
-            "id": 2,
-            "nome": "marcela",
-            "idade": 28,
-            "telefone":216479876,
-            "email":"marcela_silva@outlook.com"
+            "id": 10,
+            "nome": "Fatia Bolo Morango",
+            "descrição": "Bolo De Morango feito com pão de ló fofinho com cobertura de chantilly e morango com recheio de morango",
+            "preço": "R$ 6,50",
+            "img": "https://www.coisasdojapao.com/wp-content/uploads/2019/05/bolo-morango-japones-fatia_opt.jpg"
         },
-        {
-            "id": 3,
-            "nome": "paulo",
-            "idade": 22,
-            "telefone":21954678763,
-            "email":"paulohenrique_lima@gmail.com"
-        },
-        {
-            "id": 4,
-            "nome": "luana",
-            "idade": 30,
-            "telefone":21945670923,
-            "email":"luana_rodriguescunha@hotmail.com"
+            "id": 11,
+            "nome": "Mousse Chocolate",
+            "descrição": "Mousse De Chocolate meio amargo",
+            "preço": "R$ 5,00",
+            "img": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d2595778219b25cec5d303ff07a91fde.jpg"
         }
     ]
 }
