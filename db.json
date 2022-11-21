@@ -4,26 +4,26 @@
             "id": 1,
             "title": "Pizza de Frango Com Catupiry",
             "price": "56.00",
-            "image01": pizzafrango,
+            "image01": "https://forneriaoriginal.com/wp-content/uploads/2016/10/frango.png",
         },
         {
             "id": 3,
             "title": "Batatas fritas com Cheddar e Bacon",
             "price": "26.00",
-            "image01": batatas, 
+            "image01": "https://www.sabornamesa.com.br/media/k2/items/cache/94ea69ba6d138bccade59f45aa6f86ca_XL.jpg", 
 
         },
         {
             "id": 2,
             "title": "Hamburguer Na Sua Mesa",
             "price": "36.00",
-            "image01": nasuamesa,
+            "image01": "https://diariodorio.com/wp-content/uploads/2022/05/Bob-Beef-Hamburguer-Bob-Whiskey-Tomas-Rangel-2-scaled.jpg",
         },
         {
             "id: 4,
             "title": "strogonoff de frango",
             "price": "15.00",
-            "image01": strogonoff, 
+            "image01": "https://img.cybercook.com.br/receitas/940/strogonoff-aos-4-queijos-2-840x480.jpeg?q=75", 
         }
     ],
     "bebidas": [
@@ -31,26 +31,26 @@
             "id: "5",
             "title": "coca cola 350ml",
             "price": "6.50",
-            "image01": cocacola 
+            "image01": "https://riomarrecife.com.br/recife/2019/07/refrigerante_coca_cola_350ml.png", 
         },
         {
            "id": 6,
            "title": "Guarana Antarctica",
            "desc": "Guarana Antarctica 350ml",
            "price": "6.00",
-           "image01": guarana, 
+           "image01": "https://static.clubeextra.com.br/img/uploads/1/414/19804414.jpg", 
         },
         {
-            "id": "7",
+            "id": 7,
             "title": "Cerveja Puro Malte 350ml",
             "price": "6.00",
-            "image01": cerveja,
+            "image01": "https://static.paodeacucar.com/img/uploads/1/284/13082284.jpg",
         },
         {
           "id": 8,
           "title": "Refrigerante Sprite 350ml",
           "price": "6.00",
-         "image01": sprite,
+         "image01": "https://hiperideal.vteximg.com.br/arquivos/ids/197321-1000-1000/557404.jpg?v=637828764084130000",
 
         }
     ],
@@ -58,13 +58,13 @@
         {   "id": 9,
             "title": "Petit Gateau",
             "price": "10.00",
-            "image01": petit,
+            "image01": "https://www.devorehoneymoon.com.br/image/cache/catalog/petit_gateau-600x600.jpg",
         },
         {
          "id": 11,
          "title": "Mousse Chocolate  meio amargo",
          "price": "5.00",
-         "image01": mousse,
+         "image01": "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-facil-01-1-730x450.jpg",
   },
 ];
 }
