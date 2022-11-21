@@ -2,84 +2,69 @@
     "comida": [
         {
             "id": 1,
-            "nome": "Pizza de Frango Com Catupiry",
-            "descrição":"Pizza com massa fina recheada de frango com catupiry e bordas recheadas de catupiry",
-            "preço": "R$ 56,00",
-            "img": "https://imperiodasesfihas.com.br/wp-content/uploads/2019/01/galeto.jpg"
-        },
-        {
-            "id": 2,
-            "nome": "Hamburguer Na Sua Mesa",
-            "descrição":"Hamburguer bovino com cheddar, alface, tomate, molho da casa e picles",
-            "preço": "R$ 36,00",
-            "img": "https://tribunapr.uol.com.br/wp-content/uploads/2021/09/27165713/fast-food-970x550.jpg"
-
+            "title": "Pizza de Frango Com Catupiry",
+            "price": "56.00",
+            "image01": pizzafrango,
         },
         {
             "id": 3,
-            "nome": "Batatas fritas com Cheddar e Bacon",
-            "descrição":"Batats rusticas com cheddar e bacon frito crocante",
-            "preço": "R$ 26,00",
-            "img": "https://www.sabornamesa.com.br/media/k2/items/cache/94ea69ba6d138bccade59f45aa6f86ca_M.jpg"
+            "title": "Batatas fritas com Cheddar e Bacon",
+            "price": "26.00",
+            "image01": batatas, 
+
         },
         {
-            "id": 4,
-            "nome": "strogonoff",
-            "descrição":"strogonoff de frango ou carne com batata palha e arroz",
-            "preço": 15.00,
-            "img": "https://img.cybercook.com.br/receitas/940/strogonoff-aos-4-queijos-2.jpeg"
+            "id": 2,
+            "title": "Hamburguer Na Sua Mesa",
+            "price": "36.00",
+            "image01": nasuamesa,
+        },
+        {
+            "id: 4,
+            "title": "strogonoff de frango",
+            "price": "15.00",
+            "image01": strogonoff, 
         }
     ],
     "bebidas": [
         {
-            "id": 5,
-            "nome": "coca cola",
-            "descrição": "Coca Cola 350ml",
-            "preço": "R$ 6,50",
-            "img": "https://checkregistros.com.br/wp-content/uploads/2021/03/image-700x875.jpeg"
+            "id: "5",
+            "title": "coca cola 350ml",
+            "price": "6.50",
+            "image01": cocacola 
         },
         {
-            "id": 6,
-            "nome": "Guarana Antarctica",
-            "descrição": "Guarana Antarctica 350ml",
-            "preço": "R$ 6,00",
-            "img": "https://raw.githubusercontent.com/szya5/novoreact/main/src/images/antar.jpg"
+           "id": 6,
+           "title": "Guarana Antarctica",
+           "desc": "Guarana Antarctica 350ml",
+           "price": "6.00",
+           "image01": guarana, 
         },
         {
-            "id": 7,
-            "nome": "Cerveja",
-            "descrição": "Cerveja Puro Malte 350ml",
-            "preço": "R$ 6,00",
-            "img": "https://static.wixstatic.com/media/bb381d_eafbc6b6f5e44cdcacbf8cdc5194e143~mv2.jpg/v1/fill/w_300,h_405,al_c,lg_1,q_80,enc_auto/SESSION%20IPA.jpg"
+            "id": "7",
+            "title": "Cerveja Puro Malte 350ml",
+            "price": "6.00",
+            "image01": cerveja,
         },
         {
-            "id": 8,
-            "nome": "Sprite",
-            "descrição": "Refrigerante Sprite 350ml",
-            "preço": "R$ 6,00",
-            "img": "https://raw.githubusercontent.com/szya5/novoreact/main/src/images/sprite.jpg"
+          "id": 8,
+          "title": "Refrigerante Sprite 350ml",
+          "price": "6.00",
+         "image01": sprite,
+
         }
     ],
     "sobremesa": [
         {   "id": 9,
-            "nome": "Petit Gateau",
-            "descrição": "Uma deliciosa sobremesa composta de um pequeno bolo de chocolate com casca e recheio cremoso servido geralmente acompanhado de sorvete",
-            "preço": "R$ 10,00",
-            "img": "https://www.montarumnegocio.com/wp-content/uploads/2017/08/Receita-de-como-fazer-petit-gateau-para-vender.jpg"
+            "title": "Petit Gateau",
+            "price": "10.00",
+            "image01": petit,
         },
         {
-            "id": 10,
-            "nome": "Fatia Bolo Morango",
-            "descrição": "Bolo De Morango feito com pão de ló fofinho com cobertura de chantilly e morango com recheio de morango",
-            "preço": "R$ 6,50",
-            "img": "https://www.coisasdojapao.com/wp-content/uploads/2019/05/bolo-morango-japones-fatia_opt.jpg"
-        },
-        {
-            "id": 11,
-            "nome": "Mousse Chocolate",
-            "descrição": "Mousse De Chocolate meio amargo",
-            "preço": "R$ 5,00",
-            "img": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d2595778219b25cec5d303ff07a91fde.jpg"
-        }
-    ]
+         "id": 11,
+         "title": "Mousse Chocolate  meio amargo",
+         "price": "5.00",
+         "image01": mousse,
+  },
+];
 }
