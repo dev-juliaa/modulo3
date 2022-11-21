@@ -20,7 +20,7 @@
             "image01": "https://diariodorio.com/wp-content/uploads/2022/05/Bob-Beef-Hamburguer-Bob-Whiskey-Tomas-Rangel-2-scaled.jpg",
         },
         {
-            "id: 4,
+            "id": 4,
             "title": "strogonoff de frango",
             "price": "15.00",
             "image01": "https://img.cybercook.com.br/receitas/940/strogonoff-aos-4-queijos-2-840x480.jpeg?q=75", 
@@ -28,7 +28,7 @@
     ],
     "bebidas": [
         {
-            "id: "5",
+            "id: 5,
             "title": "coca cola 350ml",
             "price": "6.50",
             "image01": "https://riomarrecife.com.br/recife/2019/07/refrigerante_coca_cola_350ml.png", 
